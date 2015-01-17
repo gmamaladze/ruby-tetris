@@ -9,6 +9,7 @@ GEM
     rake (10.4.0)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
